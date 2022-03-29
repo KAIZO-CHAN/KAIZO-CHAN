@@ -1,4 +1,4 @@
-## REUZSC
+## KAIZOBOTZ
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/reuzsc
-> cd reuzsc
+> git clone https://github.com/KAIZO-CHAN/KAIZO-CHAN
+> cd KAIZO-CHAN
 > bash install.sh
 > node index.js
 ```
@@ -51,5 +51,5 @@ ket : ✅ : aktif
 ## THANKS TO
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
-## DONASI
-* Gopay : 081271699856 Reuz
+## DERMA
+* TNG : 0107997530
